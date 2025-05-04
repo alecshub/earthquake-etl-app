@@ -1,5 +1,5 @@
 # earthquake-etl-app
-An example ETL pipeline that:
+An ETL pipeline that:
 1. extracts earthquake data from the USGS (United States Geological Survey),
 2. stores the data in a PostgreSQL database,
 3. serves the data to a Streamlit frontend via flask backend API, allowing users to filter, visualize, and download data.
